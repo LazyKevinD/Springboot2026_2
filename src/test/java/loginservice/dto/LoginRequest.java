@@ -1,4 +1,4 @@
-package com.loginservice.loginservice.dto;
+package loginservice.dto;
 
 import lombok.Data;
 

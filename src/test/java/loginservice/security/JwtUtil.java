@@ -1,4 +1,4 @@
-package com.loginservice.loginservice.security;
+package loginservice.security;
 
 import io.jsonwebtoken.*;
 import io.jsonwebtoken.security.Keys;

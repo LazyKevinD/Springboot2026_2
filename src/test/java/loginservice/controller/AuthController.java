@@ -1,9 +1,9 @@
-package com.loginservice.loginservice.controller;
+package loginservice.controller;
 
-import com.loginservice.loginservice.dto.LoginRequest;
-import com.loginservice.loginservice.entity.User;
-import com.loginservice.loginservice.repository.UserRepository;
-import com.loginservice.loginservice.security.JwtUtil;
+import loginservice.dto.LoginRequest;
+import loginservice.entity.User;
+import loginservice.repository.UserRepository;
+import loginservice.security.JwtUtil;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;

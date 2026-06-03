@@ -1,4 +1,4 @@
-package com.loginservice.loginservice.entity;
+package loginservice.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

@@ -1,6 +1,6 @@
-package com.loginservice.loginservice.repository;
+package loginservice.repository;
 
-import com.loginservice.*;
+import loginservice.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.Optional;
 
